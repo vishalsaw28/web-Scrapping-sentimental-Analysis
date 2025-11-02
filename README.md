@@ -1,5 +1,3 @@
-# HanuAI ML Assignment - Task 1
-
 ## Web Scraping & Sentiment Analysis
 
 ### 📋 Project Overview
